@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{CE5CA191
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentNext.Delivery.Core", "ContentNext.Delivery.Core\ContentNext.Delivery.Core.csproj", "{7222C070-7204-433E-AD1F-2EB1B5178067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentNext.Delivery.IntegrationTests", "..\tests\ContentNext.Delivery.IntegrationTests\ContentNext.Delivery.IntegrationTests.csproj", "{30F2B9D7-BB50-4965-8448-1CEEA55F0228}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentNext.Delivery.IntegrationTests", "ContentNext.Delivery.IntegrationTests\ContentNext.Delivery.IntegrationTests.csproj", "{30F2B9D7-BB50-4965-8448-1CEEA55F0228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentNext.Delivery.UnitTests", "..\tests\ContentNext.Delivery.UnitTests\ContentNext.Delivery.UnitTests.csproj", "{8352CA15-5545-4644-B357-FCC34ADA8F5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentNext.Delivery.UnitTests", "ContentNext.Delivery.UnitTests\ContentNext.Delivery.UnitTests.csproj", "{8352CA15-5545-4644-B357-FCC34ADA8F5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
